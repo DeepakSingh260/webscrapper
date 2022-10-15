@@ -1,0 +1,1152 @@
+1665589057474	geckodriver	INFO	Listening on 127.0.0.1:60551
+1665589081404	geckodriver	INFO	Listening on 127.0.0.1:60561
+1665592934337	geckodriver	INFO	Listening on 127.0.0.1:50214
+1665593217033	geckodriver	INFO	Listening on 127.0.0.1:50402
+1665593536274	geckodriver	INFO	Listening on 127.0.0.1:50470
+1665593582782	geckodriver	INFO	Listening on 127.0.0.1:50506
+1665593585851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50507" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileNloAIS"
+1665593586134	Marionette	INFO	Marionette enabled
+1665593586138	Marionette	INFO	Listening on port 50512
+WebDriver BiDi listening on ws://127.0.0.1:50507
+1665593586386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileNloAIS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50507/devtools/browser/ccddb3de-6df3-4216-80b1-8d5aadaa7c19
+1665593692765	Marionette	INFO	Stopped listening on port 50512
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50609" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileShXbyb"
+1665593624185	Marionette	INFO	Marionette enabled
+1665593624189	Marionette	INFO	Listening on port 50614
+WebDriver BiDi listening on ws://127.0.0.1:50609
+1665593624563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileShXbyb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50609/devtools/browser/f06658e7-f75b-4632-bcee-041e2aea0efd
+1665593695986	Marionette	INFO	Stopped listening on port 50614
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665593772286	geckodriver	INFO	Listening on 127.0.0.1:50786
+1665593775334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50787" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileAAtXy9"
+1665593775595	Marionette	INFO	Marionette enabled
+1665593775599	Marionette	INFO	Listening on port 50792
+WebDriver BiDi listening on ws://127.0.0.1:50787
+1665593775971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileAAtXy9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50787/devtools/browser/9e8c5e07-0d1c-4a97-a977-d23f0806059e
+1665593782052	Marionette	INFO	Stopped listening on port 50792
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665593860222	geckodriver	INFO	Listening on 127.0.0.1:50921
+1665593863288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50922" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileHjw2Ka"
+1665593863542	Marionette	INFO	Marionette enabled
+1665593863546	Marionette	INFO	Listening on port 50927
+WebDriver BiDi listening on ws://127.0.0.1:50922
+1665593863919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileHjw2Ka\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50922/devtools/browser/0d0a08a7-d929-4804-bf38-c0e36f175c29
+1665593871850	Marionette	INFO	Stopped listening on port 50927
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665593923785	geckodriver	INFO	Listening on 127.0.0.1:51061
+1665593926823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51062" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileeYQbDz"
+1665593927076	Marionette	INFO	Marionette enabled
+1665593927080	Marionette	INFO	Listening on port 51067
+WebDriver BiDi listening on ws://127.0.0.1:51062
+1665593927470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileeYQbDz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51062/devtools/browser/6e653156-f54b-462c-a65b-980a9577efdd
+1665593933612	Marionette	INFO	Stopped listening on port 51067
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665593945952	geckodriver	INFO	Listening on 127.0.0.1:51147
+1665593948990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51148" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileWmGWR0"
+1665593949302	Marionette	INFO	Marionette enabled
+1665593949306	Marionette	INFO	Listening on port 51153
+WebDriver BiDi listening on ws://127.0.0.1:51148
+1665593949536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileWmGWR0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51148/devtools/browser/6b7504b2-8678-451d-8268-082198f8f728
+1665593958178	Marionette	INFO	Stopped listening on port 51153
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665593989361	geckodriver	INFO	Listening on 127.0.0.1:51248
+1665593992422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51249" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileDdO49I"
+1665593992684	Marionette	INFO	Marionette enabled
+1665593992688	Marionette	INFO	Listening on port 51254
+WebDriver BiDi listening on ws://127.0.0.1:51249
+1665593993067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileDdO49I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51249/devtools/browser/45750ac8-ef52-4791-9db5-6c44cbf36ba0
+1665594011594	Marionette	INFO	Stopped listening on port 51254
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594085539	geckodriver	INFO	Listening on 127.0.0.1:51506
+1665594088590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51507" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilezN6Sh5"
+1665594088833	Marionette	INFO	Marionette enabled
+1665594088837	Marionette	INFO	Listening on port 51514
+WebDriver BiDi listening on ws://127.0.0.1:51507
+1665594089220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilezN6Sh5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51507/devtools/browser/e30e3f10-1e86-4714-9265-af64ebd10acc
+1665594095047	Marionette	INFO	Stopped listening on port 51514
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594139416	geckodriver	INFO	Listening on 127.0.0.1:51619
+1665594142480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51620" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilepXlmjq"
+1665594142756	Marionette	INFO	Marionette enabled
+1665594142760	Marionette	INFO	Listening on port 51625
+WebDriver BiDi listening on ws://127.0.0.1:51620
+1665594143135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilepXlmjq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51620/devtools/browser/44d10732-93b2-4370-a805-616e225ca892
+1665594148255	Marionette	INFO	Stopped listening on port 51625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594258926	geckodriver	INFO	Listening on 127.0.0.1:51807
+1665594261998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51808" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilebkeO54"
+1665594262307	Marionette	INFO	Marionette enabled
+1665594262311	Marionette	INFO	Listening on port 51813
+WebDriver BiDi listening on ws://127.0.0.1:51808
+1665594262542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilebkeO54\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51808/devtools/browser/a9200b32-c734-48a5-bbd4-aa3bb2496e9e
+1665594267953	Marionette	INFO	Stopped listening on port 51813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594523037	geckodriver	INFO	Listening on 127.0.0.1:52626
+1665594526116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52627" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofiletLz00t"
+1665594526467	Marionette	INFO	Marionette enabled
+1665594526471	Marionette	INFO	Listening on port 52637
+WebDriver BiDi listening on ws://127.0.0.1:52627
+1665594526721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofiletLz00t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52627/devtools/browser/012f91c8-c920-4c26-a9a9-9c92028eaf49
+1665594531904	Marionette	INFO	Stopped listening on port 52637
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594614170	geckodriver	INFO	Listening on 127.0.0.1:52793
+1665594617231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52794" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilecEPrqU"
+1665594617557	Marionette	INFO	Marionette enabled
+1665594617560	Marionette	INFO	Listening on port 52800
+WebDriver BiDi listening on ws://127.0.0.1:52794
+1665594617780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilecEPrqU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52794/devtools/browser/dd2ce1e7-39c3-43d9-90c1-f8983befb75d
+1665594622988	Marionette	INFO	Stopped listening on port 52800
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594634436	geckodriver	INFO	Listening on 127.0.0.1:52875
+1665594637482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52876" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileyYA0aC"
+1665594637730	Marionette	INFO	Marionette enabled
+1665594637733	Marionette	INFO	Listening on port 52881
+WebDriver BiDi listening on ws://127.0.0.1:52876
+1665594638099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileyYA0aC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52876/devtools/browser/e128299e-ed63-40dc-83e6-3b844c026da7
+1665594651464	Marionette	INFO	Stopped listening on port 52881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594667996	geckodriver	INFO	Listening on 127.0.0.1:52961
+1665594671048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52962" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileBGGKh6"
+1665594671295	Marionette	INFO	Marionette enabled
+1665594671298	Marionette	INFO	Listening on port 52967
+WebDriver BiDi listening on ws://127.0.0.1:52962
+1665594671671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileBGGKh6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52962/devtools/browser/1bb5826c-6743-4e81-8a4e-d5a04ae9d798
+1665594692249	Marionette	INFO	Stopped listening on port 52967
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594709643	geckodriver	INFO	Listening on 127.0.0.1:53050
+1665594712701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53051" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilenqs6nC"
+1665594712951	Marionette	INFO	Marionette enabled
+1665594712955	Marionette	INFO	Listening on port 53056
+WebDriver BiDi listening on ws://127.0.0.1:53051
+1665594713325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilenqs6nC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53051/devtools/browser/feaebf80-6624-40c3-bc27-c8d5847b97cd
+1665594718888	Marionette	INFO	Stopped listening on port 53056
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594760506	geckodriver	INFO	Listening on 127.0.0.1:53133
+1665594763563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53134" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilelPVckE"
+1665594763814	Marionette	INFO	Marionette enabled
+1665594763818	Marionette	INFO	Listening on port 53141
+WebDriver BiDi listening on ws://127.0.0.1:53134
+1665594764189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilelPVckE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53134/devtools/browser/daa8dec2-78ac-4fff-b6a9-99878d4386f7
+1665594772361	Marionette	INFO	Stopped listening on port 53141
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594868841	geckodriver	INFO	Listening on 127.0.0.1:53278
+1665594871890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53279" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileBVttjg"
+1665594872151	Marionette	INFO	Marionette enabled
+1665594872154	Marionette	INFO	Listening on port 53284
+WebDriver BiDi listening on ws://127.0.0.1:53279
+1665594872525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileBVttjg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53279/devtools/browser/038293cf-b0e8-451b-bf7a-f445b58f6535
+1665594878066	Marionette	INFO	Stopped listening on port 53284
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665594936603	geckodriver	INFO	Listening on 127.0.0.1:53398
+1665594939662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "--remote-debugging-port" "53399" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile8uWnlV"
+1665594939916	Marionette	INFO	Marionette enabled
+1665594939920	Marionette	INFO	Listening on port 53404
+WebDriver BiDi listening on ws://127.0.0.1:53399
+1665594940268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile8uWnlV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53399/devtools/browser/c6fc02c0-5ad8-4f22-ac67-832d9ee4144e
+1665594950869	geckodriver	INFO	Listening on 127.0.0.1:53458
+1665594953928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "--remote-debugging-port" "53459" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilezILnnS"
+1665594954179	Marionette	INFO	Marionette enabled
+1665594954183	Marionette	INFO	Listening on port 53464
+WebDriver BiDi listening on ws://127.0.0.1:53459
+1665594954527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilezILnnS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53459/devtools/browser/84e7699a-413e-4b5c-83ed-f75e5fc76e6a
+1665594963264	Marionette	INFO	Stopped listening on port 53464
+1665595023861	geckodriver	INFO	Listening on 127.0.0.1:52717
+1665595026901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52718" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilemkctKt"
+*** You are running in headless mode.
+1665595027158	Marionette	INFO	Marionette enabled
+1665595027162	Marionette	INFO	Listening on port 52728
+WebDriver BiDi listening on ws://127.0.0.1:52718
+1665595027487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilemkctKt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52718/devtools/browser/8d33b513-af8f-47f4-8a09-0f1e641268e8
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (maconsole.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+debugging-port" "55986" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile9TEBgm"
+*** You are running in headless mode.
+1665595180290	Marionette	INFO	Marionette enabled
+1665595180294	Marionette	INFO	Listening on port 55994
+WebDriver BiDi listening on ws://127.0.0.1:55986
+1665595180619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile9TEBgm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55986/devtools/browser/5b88dd66-adf6-4091-ad09-7d1c1590932a
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofile9TEBgm\bookmarkbackups\bookmarks-2022-10-13.jsonlz4) because it does not exist
+e-debugging-port" "56085" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilelK47iI"
+*** You are running in headless mode.
+1665595230811	Marionette	INFO	Marionette enabled
+1665595230815	Marionette	INFO	Listening on port 56090
+WebDriver BiDi listening on ws://127.0.0.1:56085
+1665595231015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilelK47iI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56085/devtools/browser/495531c7-7d20-4dd4-9df7-4592baba2511
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofilelK47iI\bookmarkbackups\bookmarks-2022-10-13.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofilelK47iI\bookmarkbackups\bookmarks-2022-10-13.jsonlz4) because it does not exist
+ed
+1665595274288	Marionette	INFO	Listening on port 56233
+WebDriver BiDi listening on ws://127.0.0.1:56228
+1665595274480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilefLbbqf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56228/devtools/browser/a94d65a3-bd01-4484-9ced-6f7ff5f33785
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofilefLbbqf\bookmarkbackups\bookmarks-2022-10-13.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofilefLbbqf\bookmarkbackups\bookmarks-2022-10-13.jsonlz4) because it does not exist
+ed
+1665595324262	Marionette	INFO	Listening on port 56339
+WebDriver BiDi listening on ws://127.0.0.1:56331
+1665595324360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileRsQfm9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56331/devtools/browser/5a16ddbf-c84f-417f-b6c1-b0a6a9d12e90
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+debugging-port" "56932" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilecAs7p6"
+*** You are running in headless mode.
+1665632805886	Marionette	INFO	Marionette enabled
+1665632805889	Marionette	INFO	Listening on port 56949
+WebDriver BiDi listening on ws://127.0.0.1:56932
+1665632806079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilecAs7p6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56932/devtools/browser/49ea7845-6fdb-4603-9ab7-612f54321890
+1665632831155	geckodriver	INFO	Listening on 127.0.0.1:57046
+1665632834176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57047" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofiledBzPkI"
+*** You are running in headless mode.
+1665632834543	Marionette	INFO	Marionette enabled
+1665632834547	Marionette	INFO	Listening on port 57052
+WebDriver BiDi listening on ws://127.0.0.1:57047
+1665632834787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofiledBzPkI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57047/devtools/browser/77af30b9-840e-4bf8-bfea-e95cd001519d
+1665632857447	geckodriver	INFO	Listening on 127.0.0.1:57172
+1665632860524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57173" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileAhzEIz"
+*** You are running in headless mode.
+1665632860878	Marionette	INFO	Marionette enabled
+1665632860882	Marionette	INFO	Listening on port 57188
+WebDriver BiDi listening on ws://127.0.0.1:57173
+1665632861073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileAhzEIz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57173/devtools/browser/8e0c09ff-1ca3-4698-b1c0-7b294c4f9409
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (maconsole.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+1665633390653	geckodriver	INFO	Listening on 127.0.0.1:57893
+1665633393696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57894" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilesGzcAq"
+*** You are running in headless mode.
+1665633393969	Marionette	INFO	Marionette enabled
+1665633393972	Marionette	INFO	Listening on port 57939
+WebDriver BiDi listening on ws://127.0.0.1:57894
+1665633394310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilesGzcAq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57894/devtools/browser/d6356419-a5d9-4b12-9fdb-99509464b0d4
+1665633436652	geckodriver	INFO	Listening on 127.0.0.1:58216
+1665633439711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58217" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilenDcVkb"
+*** You are running in headless mode.
+1665633440050	Marionette	INFO	Marionette enabled
+1665633440054	Marionette	INFO	Listening on port 58222
+WebDriver BiDi listening on ws://127.0.0.1:58217
+1665633440248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilenDcVkb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58217/devtools/browser/6b128e32-7c04-4e02-a08c-deeb2d1498c6
+1665633587762	geckodriver	INFO	Listening on 127.0.0.1:58578
+1665633590830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58579" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileI5KiOu"
+*** You are running in headless mode.
+1665633591199	Marionette	INFO	Marionette enabled
+1665633591202	Marionette	INFO	Listening on port 58594
+WebDriver BiDi listening on ws://127.0.0.1:58579
+1665633591392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileI5KiOu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58579/devtools/browser/3980ad99-9d44-44bd-b22c-eb24ee16b4b2
+1665633606233	geckodriver	INFO	Listening on 127.0.0.1:58681
+1665633609268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58682" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile1LhXVh"
+*** You are running in headless mode.
+1665633609532	Marionette	INFO	Marionette enabled
+1665633609536	Marionette	INFO	Listening on port 58687
+WebDriver BiDi listening on ws://127.0.0.1:58682
+1665633609869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile1LhXVh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58682/devtools/browser/5ee5bab7-fdf4-4446-9ae3-2be225e618ae
+1665633624178	geckodriver	INFO	Listening on 127.0.0.1:58822
+1665633627262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58823" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileUItxXf"
+*** You are running in headless mode.
+1665633627616	Marionette	INFO	Marionette enabled
+1665633627619	Marionette	INFO	Listening on port 58829
+WebDriver BiDi listening on ws://127.0.0.1:58823
+1665633627811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileUItxXf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58823/devtools/browser/2fc460b6-3a84-44ca-8564-3eed20f2b688
+1665633649618	geckodriver	INFO	Listening on 127.0.0.1:58934
+1665633652679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58935" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilew3oNOX"
+*** You are running in headless mode.
+1665633653010	Marionette	INFO	Marionette enabled
+1665633653013	Marionette	INFO	Listening on port 58945
+WebDriver BiDi listening on ws://127.0.0.1:58935
+1665633653339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilew3oNOX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58935/devtools/browser/14e8445f-bbaa-4986-879d-f62eb8757160
+1665633677211	geckodriver	INFO	Listening on 127.0.0.1:59035
+1665633680272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59036" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileAQd4tu"
+*** You are running in headless mode.
+1665633680625	Marionette	INFO	Marionette enabled
+1665633680629	Marionette	INFO	Listening on port 59041
+WebDriver BiDi listening on ws://127.0.0.1:59036
+1665633680924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileAQd4tu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59036/devtools/browser/768ccbf9-27bd-422f-87f2-ccfbf28bf64c
+1665633708546	geckodriver	INFO	Listening on 127.0.0.1:59146
+1665633711615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59147" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile6saTGa"
+*** You are running in headless mode.
+1665633711970	Marionette	INFO	Marionette enabled
+1665633711974	Marionette	INFO	Listening on port 59153
+WebDriver BiDi listening on ws://127.0.0.1:59147
+1665633712177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile6saTGa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59147/devtools/browser/5841b181-89a3-42fe-a872-9bbfe9cfadfe
+1665633738727	geckodriver	INFO	Listening on 127.0.0.1:59256
+1665633741780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59257" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileHjvImA"
+*** You are running in headless mode.
+1665633742264	Marionette	INFO	Marionette enabled
+1665633742269	Marionette	INFO	Listening on port 59265
+WebDriver BiDi listening on ws://127.0.0.1:59257
+1665633742369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileHjvImA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59257/devtools/browser/54befb21-033b-4646-8fe0-0601ca30199b
+1665633749837	geckodriver	INFO	Listening on 127.0.0.1:59346
+1665633752891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59347" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileiu5PpA"
+*** You are running in headless mode.
+1665633753249	Marionette	INFO	Marionette enabled
+1665633753252	Marionette	INFO	Listening on port 59362
+WebDriver BiDi listening on ws://127.0.0.1:59347
+1665633753466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileiu5PpA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59347/devtools/browser/3bf166ef-449d-4dbb-b53f-31ce93142375
+1665633770037	geckodriver	INFO	Listening on 127.0.0.1:59444
+1665633773112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59445" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileZB5zaX"
+*** You are running in headless mode.
+1665633773548	Marionette	INFO	Marionette enabled
+1665633773553	Marionette	INFO	Listening on port 59476
+WebDriver BiDi listening on ws://127.0.0.1:59445
+1665633773735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileZB5zaX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59445/devtools/browser/8a4dbc82-ae30-47fa-9265-97056ce3a78c
+1665633858065	geckodriver	INFO	Listening on 127.0.0.1:59780
+1665633861127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59781" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile5cEywz"
+*** You are running in headless mode.
+1665633861496	Marionette	INFO	Marionette enabled
+1665633861500	Marionette	INFO	Listening on port 59786
+WebDriver BiDi listening on ws://127.0.0.1:59781
+1665633861701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile5cEywz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59781/devtools/browser/8309240c-f3d9-4756-be93-8b2f96660206
+1665633905125	geckodriver	INFO	Listening on 127.0.0.1:59935
+1665633908197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59936" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile4apkxv"
+*** You are running in headless mode.
+1665633908527	Marionette	INFO	Marionette enabled
+1665633908530	Marionette	INFO	Listening on port 59944
+WebDriver BiDi listening on ws://127.0.0.1:59936
+1665633908773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile4apkxv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59936/devtools/browser/d7dc0036-ae97-47ad-b4b0-c899171d4105
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (maconsole.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+debugging-port" "60612" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile3vjHML"
+*** You are running in headless mode.
+1665634163297	Marionette	INFO	Marionette enabled
+1665634163301	Marionette	INFO	Listening on port 60617
+WebDriver BiDi listening on ws://127.0.0.1:60612
+1665634163510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile3vjHML\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60612/devtools/browser/0e0f6d7a-dc9a-4102-a1ee-ba4b38a578c9
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 1609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 6681 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665634186814	geckodriver	INFO	Listening on 127.0.0.1:54802
+1665634189894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54803" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilemlymLa"
+*** You are running in headless mode.
+1665634190254	Marionette	INFO	Marionette enabled
+1665634190258	Marionette	INFO	Listening on port 54808
+WebDriver BiDi listening on ws://127.0.0.1:54803
+1665634190465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilemlymLa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54803/devtools/browser/6c4f4151-ecb3-4a12-99fa-629e17787aeb
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 7004 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 1247 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 1504 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 1972 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 6075 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+CachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 5272 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 6845 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 297 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_227_3_0/ebStdBannerEx.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GqdA_Tv7WdpTYI8K1v09aLIv-PCgI0anbpiD0lWdf3k.js line 2 > eval line 5755 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+g in headless mode.
+1665634294748	Marionette	INFO	Marionette enabled
+1665634294753	Marionette	INFO	Listening on port 49531
+WebDriver BiDi listening on ws://127.0.0.1:49508
+1665634294966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileCEkkDR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49508/devtools/browser/1ee4b9c0-821b-4fa7-8646-7214664a977f
+1665634397591	geckodriver	INFO	Listening on 127.0.0.1:51670
+1665634400640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51671" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileXbXpPh"
+*** You are running in headless mode.
+1665634401064	Marionette	INFO	Marionette enabled
+1665634401068	Marionette	INFO	Listening on port 51690
+WebDriver BiDi listening on ws://127.0.0.1:51671
+1665634401269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileXbXpPh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51671/devtools/browser/d82a287e-3428-485f-83ab-67c3e796a993
+1665634417741	geckodriver	INFO	Listening on 127.0.0.1:51817
+1665634420805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51818" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilezeTfy7"
+*** You are running in headless mode.
+1665634421063	Marionette	INFO	Marionette enabled
+1665634421066	Marionette	INFO	Listening on port 51825
+WebDriver BiDi listening on ws://127.0.0.1:51818
+1665634421395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilezeTfy7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51818/devtools/browser/f811f919-a15c-4d3d-b717-5328e6e1ef10
+1665634531659	geckodriver	INFO	Listening on 127.0.0.1:52082
+1665634534719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52083" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofiledSCuY1"
+*** You are running in headless mode.
+1665634535016	Marionette	INFO	Marionette enabled
+1665634535020	Marionette	INFO	Listening on port 52091
+WebDriver BiDi listening on ws://127.0.0.1:52083
+1665634535346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofiledSCuY1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52083/devtools/browser/aacb3864-e350-4d17-934c-6134b21e3959
+1665809468255	geckodriver	INFO	Listening on 127.0.0.1:58240
+1665809471326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58241" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileLsGQmx"
+*** You are running in headless mode.
+1665809471776	Marionette	INFO	Marionette enabled
+1665809471781	Marionette	INFO	Listening on port 58248
+WebDriver BiDi listening on ws://127.0.0.1:58241
+1665809471896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileLsGQmx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58241/devtools/browser/92bb7032-ca7e-40bc-9fa1-e4df54f83294
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofileLsGQmx\thumbnails) because it does not exist
+bugging-port" "58519" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileIOfOxT"
+*** You are running in headless mode.
+1665809528894	Marionette	INFO	Marionette enabled
+1665809528898	Marionette	INFO	Listening on port 58528
+WebDriver BiDi listening on ws://127.0.0.1:58519
+1665809529087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileIOfOxT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58519/devtools/browser/f32b9dc8-81ac-44fd-a11e-4ecd2a325613
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofileIOfOxT\thumbnails) because it does not exist
+bugging-port" "58841" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile9kzNGJ"
+*** You are running in headless mode.
+1665809626681	Marionette	INFO	Marionette enabled
+1665809626685	Marionette	INFO	Listening on port 58848
+WebDriver BiDi listening on ws://127.0.0.1:58841
+1665809626896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile9kzNGJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58841/devtools/browser/20727233-b246-4f1f-bfde-584ef1170fd4
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofile9kzNGJ\thumbnails) because it does not exist
+bugging-port" "63328" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileDHNRfU"
+*** You are running in headless mode.
+1665809693951	Marionette	INFO	Marionette enabled
+1665809693956	Marionette	INFO	Listening on port 63358
+WebDriver BiDi listening on ws://127.0.0.1:63328
+1665809694094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileDHNRfU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63328/devtools/browser/b59386c7-cbed-4c42-a54c-9f50b8c59d9e
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. RetrJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofileMBUO61\thumbnails) because it does not exist
+does not exist
+bugging-port" "64355" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileAjE7HY"
+*** You are running in headless mode.
+1665810325587	Marionette	INFO	Marionette enabled
+1665810325594	Marionette	INFO	Listening on port 64371
+WebDriver BiDi listening on ws://127.0.0.1:64355
+1665810326317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileAjE7HY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64355/devtools/browser/d9bffab0-a18a-48cd-baaf-cf8b7ce8dc1f
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retrconsole.error: sJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofileAjE7HY\thumbnails) because it does not exist
+udy-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retrconsole.error: sJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofile4UVceX\thumbnails) because it does not exist
+udy-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. RetrJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofiletDObOl\thumbnails) because it does not exist
+does not exist
+3064" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileCbTJGl"
+*** You are running in headless mode.
+1665810731852	Marionette	INFO	Marionette enabled
+1665810731856	Marionette	INFO	Listening on port 63075
+WebDriver BiDi listening on ws://127.0.0.1:63064
+1665810731953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileCbTJGl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63064/devtools/browser/786d65c9-152a-4c39-b0e1-59dbd3ee1748
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\alexm\AppData\Local\Temp\rust_mozprofileCbTJGl\thumbnails) because it does not exist
+bugging-port" "63685" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileQ7kQjI"
+*** You are running in headless mode.
+1665810888659	Marionette	INFO	Marionette enabled
+1665810888665	Marionette	INFO	Listening on port 63692
+WebDriver BiDi listening on ws://127.0.0.1:63685
+1665810888779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileQ7kQjI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63685/devtools/browser/f3fbde4c-0671-4fc2-a729-d19f1dbdd8e4
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665810976848	geckodriver	INFO	Listening on 127.0.0.1:64205
+1665810979976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64206" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile8h2T7E"
+*** You are running in headless mode.
+1665810980470	Marionette	INFO	Marionette enabled
+1665810980476	Marionette	INFO	Listening on port 64215
+WebDriver BiDi listening on ws://127.0.0.1:64206
+1665810980578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile8h2T7E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64206/devtools/browser/af6451da-cf78-414f-a8f7-e9f818c078ee
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665811066473	geckodriver	INFO	Listening on 127.0.0.1:64496
+1665811069681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64497" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileGiElck"
+*** You are running in headless mode.
+1665811070578	Marionette	INFO	Marionette enabled
+1665811070585	Marionette	INFO	Listening on port 64506
+WebDriver BiDi listening on ws://127.0.0.1:64497
+1665811071986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileGiElck\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64497/devtools/browser/0a23a33e-eeb2-4db7-a3a4-63cc07938ba1
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retrconsole.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+ervices.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+1665813350980	geckodriver	INFO	Listening on 127.0.0.1:50695
+1665813354010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50696" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileYtRWqh"
+*** You are running in headless mode.
+1665813354518	Marionette	INFO	Marionette enabled
+1665813354524	Marionette	INFO	Listening on port 50703
+WebDriver BiDi listening on ws://127.0.0.1:50696
+1665813354648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileYtRWqh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50696/devtools/browser/f1863e9b-2120-49d0-9beb-bbc9adef19c7
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Proto-max-Mens-Bq6623-070/dp/B07ZG56JM3/ref=sr_1_1_sspa?keywords=nike+jordan&qid=1665813353&qu=eyJxc2MiOiI4LjM1IiwicXNhIjoiNy44NCIsInFzcCI6IjQuODMifQ%3D%3D&sr=8-1-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+ckodriver	INFO	Listening on 127.0.0.1:51150
+1665813511968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51151" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileIyGx3W"
+*** You are running in headless mode.
+1665813512415	Marionette	INFO	Marionette enabled
+1665813512420	Marionette	INFO	Listening on port 51160
+WebDriver BiDi listening on ws://127.0.0.1:51151
+1665813512621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileIyGx3W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51151/devtools/browser/2b332e59-11e7-4f46-9de4-a5a22f7a22af
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Proto-max-Mens-Bq6623-070/dp/B07ZG56JM3/ref=sr_1_1_sspa?keywords=nike+jordan&qid=1665813510&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-1-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/NIKE-Mens-Jordan-Sportswear-AA1885-657/dp/B07FPSYNFD/ref=sr_1_2_sspa?keywords=nike+jordan&qid=1665813510&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-2-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Mens-Jordan-Retro-Multi/dp/B07DS37TGJ/ref=sr_1_3_sspa?keywords=nike+jordan&qid=1665813510&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-3-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Retro-Basketball-555088-180/dp/B099Z3F7WF/ref=sr_1_4_sspa?keywords=nike+jordan&qid=1665813510&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-4-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-University-RED-White-Jordan-AR6374-016/dp/B096MMG1ZQ/ref=sr_1_5?keywords=nike+jordan&qid=1665813510&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-5 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665813546599	geckodriver	INFO	Listening on 127.0.0.1:51638
+1665813549630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51639" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilePb2FIq"
+*** You are running in headless mode.
+1665813550075	Marionette	INFO	Marionette enabled
+1665813550080	Marionette	INFO	Listening on port 51645
+WebDriver BiDi listening on ws://127.0.0.1:51639
+1665813550183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilePb2FIq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51639/devtools/browser/143db2da-882b-4adb-bc9d-0e3d481db5d3
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Proto-max-Mens-Bq6623-070/dp/B07ZG56JM3/ref=sr_1_1_sspa?keywords=nike+jordan&qid=1665813548&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-1-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/NIKE-Mens-Jordan-Sportswear-AA1885-657/dp/B07FPSYNFD/ref=sr_1_2_sspa?keywords=nike+jordan&qid=1665813548&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-2-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Mens-Jordan-Retro-Multi/dp/B07DS37TGJ/ref=sr_1_3_sspa?keywords=nike+jordan&qid=1665813548&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-3-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Tracksuit-Bambino-657146-023/dp/B084MH7K3P/ref=sr_1_4_sspa?keywords=nike+jordan&qid=1665813548&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-4-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665813764471	geckodriver	INFO	Listening on 127.0.0.1:52160
+1665813767518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52161" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileOhD8la"
+*** You are running in headless mode.
+1665813767995	Marionette	INFO	Marionette enabled
+1665813768002	Marionette	INFO	Listening on port 52176
+WebDriver BiDi listening on ws://127.0.0.1:52161
+1665813768140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileOhD8la\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52161/devtools/browser/47cd4f54-0496-4126-863a-212bc63abc1d
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Proto-max-Mens-Bq6623-070/dp/B07ZG56JM3/ref=sr_1_1_sspa?keywords=nike+jordan&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-1-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/NIKE-Mens-Jordan-Sportswear-AA1885-657/dp/B07FPSYNFD/ref=sr_1_2_sspa?keywords=nike+jordan&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-2-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Mens-Jordan-Retro-Multi/dp/B07DS37TGJ/ref=sr_1_3_sspa?keywords=nike+jordan&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-3-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Tracksuit-Bambino-657146-023/dp/B084MH7K3P/ref=sr_1_4_sspa?keywords=nike+jordan&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-4-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-University-RED-White-Jordan-AR6374-016/dp/B096MMG1ZQ/ref=sr_1_5?keywords=nike+jordan&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-5 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Aura-White-Green/dp/B0B28TBWDC/ref=sr_1_omk_6?keywords=nike+jordan&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-6 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Bloodline-DA3130-006-Crimson/dp/B09B98F6CS/ref=sxin_15_slsr_d_i_fs4star_fa_5_B09B98F6CS?content-id=amzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a%3Aamzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a&cv_ct_cx=nike+jordan&keywords=nike+jordan&pd_rd_i=B09B98F6CS&pd_rd_r=3a6e196e-1a68-42a5-86a6-8fcf38f1ece7&pd_rd_w=dByLn&pd_rd_wg=ha2Yi&pf_rd_p=86f966cb-cf80-4eda-a765-89e42fae403a&pf_rd_r=3GGVM92CKT54MYW2AM3C&psc=1&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=1-6-41e0d225-3819-4755-898e-7f0f48633b47 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Kyrie-Flytrap-Basketball-Ct1972-002/dp/B08NYKR8SF/ref=sxin_15_slsr_d_i_fs4star_fa_7_B08NYKR8SF?content-id=amzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a%3Aamzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a&cv_ct_cx=nike+jordan&keywords=nike+jordan&pd_rd_i=B08NYKR8SF&pd_rd_r=3a6e196e-1a68-42a5-86a6-8fcf38f1ece7&pd_rd_w=dByLn&pd_rd_wg=ha2Yi&pf_rd_p=86f966cb-cf80-4eda-a765-89e42fae403a&pf_rd_r=3GGVM92CKT54MYW2AM3C&psc=1&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=1-8-41e0d225-3819-4755-898e-7f0f48633b47 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Kyrie-Flytrap-Basketball-Ct1972-002/dp/B08NYKR8SF/ref=sxin_15_slsr_d_i_fs4star_fa_7_B08NYKR8SF?content-id=amzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a%3Aamzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a&cv_ct_cx=nike+jordan&keywords=nike+jordan&pd_rd_i=B08NYKR8SF&pd_rd_r=3a6e196e-1a68-42a5-86a6-8fcf38f1ece7&pd_rd_w=dByLn&pd_rd_wg=ha2Yi&pf_rd_p=86f966cb-cf80-4eda-a765-89e42fae403a&pf_rd_r=3GGVM92CKT54MYW2AM3C&psc=1&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=1-8-41e0d225-3819-4755-898e-7f0f48633b47 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Point-Lane-Numeric_6/dp/B09QWD6SV3/ref=sr_1_34?keywords=nike+jordan&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-34 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Break-Slide-AR6374-416/dp/B09BQZ4NFS/ref=sr_1_36?keywords=nike+jordan&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-36 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Hustle-Basketball-Metallic-Silver/dp/B01LBG7IOW/ref=sr_1_40?keywords=nike+jordan&qid=1665813766&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-40 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665814551473	geckodriver	INFO	Listening on 127.0.0.1:53740
+1665814554557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53741" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileP50Nxs"
+*** You are running in headless mode.
+1665814555138	Marionette	INFO	Marionette enabled
+1665814555148	Marionette	INFO	Listening on port 53756
+WebDriver BiDi listening on ws://127.0.0.1:53741
+1665814555723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileP50Nxs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53741/devtools/browser/96d80ee9-8924-4cb2-bd31-773f593a36e1
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665814586130	geckodriver	INFO	Listening on 127.0.0.1:54014
+1665814589186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54015" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileuy9SsJ"
+*** You are running in headless mode.
+1665814589806	Marionette	INFO	Marionette enabled
+1665814589814	Marionette	INFO	Listening on port 54036
+WebDriver BiDi listening on ws://127.0.0.1:54015
+1665814590357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileuy9SsJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54015/devtools/browser/e6b6f70c-7423-4ff6-be63-eb980ca94e0d
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665824334103	geckodriver	INFO	Listening on 127.0.0.1:55913
+1665824337145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55914" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileAy94B5"
+*** You are running in headless mode.
+1665824337588	Marionette	INFO	Marionette enabled
+1665824337592	Marionette	INFO	Listening on port 55921
+WebDriver BiDi listening on ws://127.0.0.1:55914
+1665824337759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileAy94B5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55914/devtools/browser/0a2d045f-9e35-40ef-8a20-a6d2260bb0dc
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retrconsole.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+1665825152882	geckodriver	INFO	Listening on 127.0.0.1:56942
+1665825155933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56943" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile2DE0M7"
+*** You are running in headless mode.
+1665825156309	Marionette	INFO	Marionette enabled
+1665825156314	Marionette	INFO	Listening on port 56948
+WebDriver BiDi listening on ws://127.0.0.1:56943
+1665825156514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile2DE0M7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56943/devtools/browser/643b559d-a746-480a-9488-a445ab02819e
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Tracksuit-Bambino-657146-023/dp/B084MGR66F/ref=sr_1_23_sspa?keywords=nike+jordan&qid=1665825154&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-23-spons&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665825722730	geckodriver	INFO	Listening on 127.0.0.1:57586
+1665825725785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57587" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilexwoHFq"
+*** You are running in headless mode.
+1665825726161	Marionette	INFO	Marionette enabled
+1665825726166	Marionette	INFO	Listening on port 57592
+WebDriver BiDi listening on ws://127.0.0.1:57587
+1665825726380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilexwoHFq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57587/devtools/browser/260809cc-f679-4f6c-a0d1-e8955d42fbf2
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-University-RED-White-Jordan-AR6374-016/dp/B096MMG1ZQ/ref=sxin_15_slsr_d_i_fs4star_fa_4_B096MMG1ZQ?content-id=amzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a%3Aamzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a&cv_ct_cx=nike+jordan&keywords=nike+jordan&pd_rd_i=B096MMG1ZQ&pd_rd_r=d4786a1a-77fe-4201-8b7a-3177ca6ad903&pd_rd_w=Yc53x&pd_rd_wg=mYoJY&pf_rd_p=86f966cb-cf80-4eda-a765-89e42fae403a&pf_rd_r=XQ1KRKQJB9VZ4REW5244&psc=1&qid=1665825724&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=1-5-41e0d225-3819-4755-898e-7f0f48633b47 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-University-RED-White-Jordan-AR6374-016/dp/B096MMG1ZQ/ref=sxin_15_slsr_d_i_fs4star_fa_4_B096MMG1ZQ?content-id=amzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a%3Aamzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a&cv_ct_cx=nike+jordan&keywords=nike+jordan&pd_rd_i=B096MMG1ZQ&pd_rd_r=d4786a1a-77fe-4201-8b7a-3177ca6ad903&pd_rd_w=Yc53x&pd_rd_wg=mYoJY&pf_rd_p=86f966cb-cf80-4eda-a765-89e42fae403a&pf_rd_r=XQ1KRKQJB9VZ4REW5244&psc=1&qid=1665825724&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=1-5-41e0d225-3819-4755-898e-7f0f48633b47 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Basketball-Shoes-White-Black/dp/B07ZTVTF3G/ref=sxin_15_slsr_d_i_fs4star_fa_5_B07ZTVTF3G?content-id=amzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a%3Aamzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a&cv_ct_cx=nike+jordan&keywords=nike+jordan&pd_rd_i=B07ZTVTF3G&pd_rd_r=d4786a1a-77fe-4201-8b7a-3177ca6ad903&pd_rd_w=Yc53x&pd_rd_wg=mYoJY&pf_rd_p=86f966cb-cf80-4eda-a765-89e42fae403a&pf_rd_r=XQ1KRKQJB9VZ4REW5244&psc=1&qid=1665825724&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=1-6-41e0d225-3819-4755-898e-7f0f48633b47 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665825751481	geckodriver	INFO	Listening on 127.0.0.1:57910
+1665825754872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57911" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilembAoJM"
+*** You are running in headless mode.
+1665825755332	Marionette	INFO	Marionette enabled
+1665825755337	Marionette	INFO	Listening on port 57926
+WebDriver BiDi listening on ws://127.0.0.1:57911
+1665825755432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilembAoJM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57911/devtools/browser/59865e2e-241d-4a55-a869-98d8e408e392
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-University-RED-White-Jordan-AR6374-016/dp/B096MMG1ZQ/ref=sxin_15_slsr_d_i_fs4star_fa_4_B096MMG1ZQ?content-id=amzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a%3Aamzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a&cv_ct_cx=nike+jordan&keywords=nike+jordan&pd_rd_i=B096MMG1ZQ&pd_rd_r=e3337266-2f55-43fa-9470-36591a99c41d&pd_rd_w=MyEpR&pd_rd_wg=6vxgu&pf_rd_p=86f966cb-cf80-4eda-a765-89e42fae403a&pf_rd_r=NZYE5K58MKCWES5QYH5N&psc=1&qid=1665825753&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=1-5-41e0d225-3819-4755-898e-7f0f48633b47 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-University-RED-White-Jordan-AR6374-016/dp/B096MMG1ZQ/ref=sxin_15_slsr_d_i_fs4star_fa_4_B096MMG1ZQ?content-id=amzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a%3Aamzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a&cv_ct_cx=nike+jordan&keywords=nike+jordan&pd_rd_i=B096MMG1ZQ&pd_rd_r=e3337266-2f55-43fa-9470-36591a99c41d&pd_rd_w=MyEpR&pd_rd_wg=6vxgu&pf_rd_p=86f966cb-cf80-4eda-a765-89e42fae403a&pf_rd_r=NZYE5K58MKCWES5QYH5N&psc=1&qid=1665825753&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=1-5-41e0d225-3819-4755-898e-7f0f48633b47 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Basketball-Shoes-White-Black/dp/B07ZTVTF3G/ref=sxin_15_slsr_d_i_fs4star_fa_5_B07ZTVTF3G?content-id=amzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a%3Aamzn1.sym.86f966cb-cf80-4eda-a765-89e42fae403a&cv_ct_cx=nike+jordan&keywords=nike+jordan&pd_rd_i=B07ZTVTF3G&pd_rd_r=e3337266-2f55-43fa-9470-36591a99c41d&pd_rd_w=MyEpR&pd_rd_wg=6vxgu&pf_rd_p=86f966cb-cf80-4eda-a765-89e42fae403a&pf_rd_r=NZYE5K58MKCWES5QYH5N&psc=1&qid=1665825753&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=1-6-41e0d225-3819-4755-898e-7f0f48633b47 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+ckodriver	INFO	Listening on 127.0.0.1:58500
+1665825877310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58501" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileFGwGrP"
+*** You are running in headless mode.
+1665825877790	Marionette	INFO	Marionette enabled
+1665825877795	Marionette	INFO	Listening on port 58507
+WebDriver BiDi listening on ws://127.0.0.1:58501
+1665825877888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileFGwGrP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58501/devtools/browser/b4abcd06-0d61-4b71-b27d-45dbc384e5a2
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665825973907	geckodriver	INFO	Listening on 127.0.0.1:58930
+1665825976958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58931" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilezAlsbm"
+*** You are running in headless mode.
+1665825977370	Marionette	INFO	Marionette enabled
+1665825977374	Marionette	INFO	Listening on port 58936
+WebDriver BiDi listening on ws://127.0.0.1:58931
+1665825977590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilezAlsbm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58931/devtools/browser/d9916d2e-ac44-4526-b652-46f31c0bee42
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665826226919	geckodriver	INFO	Listening on 127.0.0.1:59585
+1665826229971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59586" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilezbuMI3"
+*** You are running in headless mode.
+1665826230398	Marionette	INFO	Marionette enabled
+1665826230403	Marionette	INFO	Listening on port 59591
+WebDriver BiDi listening on ws://127.0.0.1:59586
+1665826230598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilezbuMI3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59586/devtools/browser/0dd9bfc8-2399-45ef-a4df-639299463e89
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665826302142	geckodriver	INFO	Listening on 127.0.0.1:60103
+1665826305202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60104" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilePGSF7X"
+*** You are running in headless mode.
+1665826305625	Marionette	INFO	Marionette enabled
+1665826305630	Marionette	INFO	Listening on port 60109
+WebDriver BiDi listening on ws://127.0.0.1:60104
+1665826305852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilePGSF7X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60104/devtools/browser/d141ad25-68d4-44cb-ae27-d8740b543f82
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665826345708	geckodriver	INFO	Listening on 127.0.0.1:60313
+1665826348761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60314" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile91KGjR"
+*** You are running in headless mode.
+1665826349152	Marionette	INFO	Marionette enabled
+1665826349158	Marionette	INFO	Listening on port 60319
+WebDriver BiDi listening on ws://127.0.0.1:60314
+1665826349403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile91KGjR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60314/devtools/browser/c7963842-aeba-40bd-a3d4-a64c31f38a3d
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+ng: https://www.amazon.in/Nike-Jordan-Break-Slide-AR6374-416/dp/B09BR15MK3/ref=sr_1_28?keywords=nike+jordan&qid=1665826667&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-28 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-University-RED-White-Jordan-AR6374-016/dp/B096MMG1ZQ/ref=sr_1_5?keywords=nike+jordan&qid=1665826667&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-5 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/NIKE-Mens-LITEFORCE-Casual-Shoes/dp/B00WQNO4U6/ref=sr_1_43?keywords=nike+jordan&qid=1665826667&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-43 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665826725002	geckodriver	INFO	Listening on 127.0.0.1:61080
+1665826728059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61081" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilewfQal3"
+*** You are running in headless mode.
+1665826728475	Marionette	INFO	Marionette enabled
+1665826728481	Marionette	INFO	Listening on port 61088
+WebDriver BiDi listening on ws://127.0.0.1:61081
+1665826728680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofilewfQal3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61081/devtools/browser/cbedd4c4-48fc-4fbe-9854-8bd2cd5778f3
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Jordan-Break-Slide-AR6374-416/dp/B09BQZ4NFS/ref=sr_1_33?keywords=nike+jordan&qid=1665826726&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-33 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665826763110	geckodriver	INFO	Listening on 127.0.0.1:61527
+1665826766166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61528" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileuvqtPH"
+*** You are running in headless mode.
+1665826766592	Marionette	INFO	Marionette enabled
+1665826766597	Marionette	INFO	Listening on port 61533
+WebDriver BiDi listening on ws://127.0.0.1:61528
+1665826766797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileuvqtPH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61528/devtools/browser/9f652b38-34cb-41fd-8b1b-496c3e702339
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.in/Nike-Asuna-Baroque-Brown-Sail-Elements/dp/B0B7BJ57ZX/ref=sr_1_43?keywords=nike+jordan&qid=1665826764&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-43 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

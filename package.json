@@ -1,0 +1,19 @@
+{
+  "name": "project_scrapper",
+  "version": "1.0.0",
+  "description": "scrapper  ",
+  "main": "./index.py",
+  "scripts": {
+    "start": "node ./index.py",
+    "test": "echo \"Error: no test specified\" && exit 1",
+  
+    "py": "./node_modules/python/lib/python.js",
+    "build": "py",
+    "postinstall": "npm run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "python": "^0.0.4"
+  }
+}
