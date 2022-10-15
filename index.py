@@ -12,10 +12,10 @@ options = Options()
 options.binary_location  = r"C:\Program Files\Mozilla Firefox\firefox.exe"
 options.headless = True
 
-async def func():
+async def func(query):
     print("function called")
     driver = webdriver.Firefox(options=options)
-    driver.get("https://www.amazon.in/s?k=nike+jordar")
+    driver.get("https://www.amazon.in/s?k="+query)
     
     el = WebDriverWait(driver,timeout=10).until(lambda d: d.find_elements(By.CLASS_NAME,"s-card-container"))
     link = []
@@ -39,7 +39,7 @@ async def func():
         
     link.sort(key=lambda row: (row[2]))
    
-    for i in range(min(len(link),3)):
+    for i in range(min(len(link),5)):
 
         driver.get(link[i][0])
         link[i][1] = driver.find_element(By.ID , "title").text
@@ -51,7 +51,12 @@ async def func():
 
 loop= asyncio.get_event_loop()
 try:
-        obj = loop.create_task(func())
+        str = input("enter you query")
+        st = str.split(" ")
+        str = ""
+        for s in st:
+            str = str+"+"+s
+        obj = loop.create_task(func(str))
         loop.run_until_complete(obj)
 finally:
     loop.close()

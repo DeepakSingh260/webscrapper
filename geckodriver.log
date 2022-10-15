@@ -1150,3 +1150,18 @@ DevTools listening on ws://127.0.0.1:61528/devtools/browser/9f652b38-34cb-41fd-8
 JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript warning: https://www.amazon.in/Nike-Asuna-Baroque-Brown-Sail-Elements/dp/B0B7BJ57ZX/ref=sr_1_43?keywords=nike+jordan&qid=1665826764&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-43 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665849763847	geckodriver	INFO	Listening on 127.0.0.1:50246
+1665849766904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50247" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileyQNLFR"
+*** You are running in headless mode.
+1665849767185	Marionette	INFO	Marionette enabled
+1665849767189	Marionette	INFO	Listening on port 50252
+WebDriver BiDi listening on ws://127.0.0.1:50247
+1665849767549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileyQNLFR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50247/devtools/browser/46ecc007-7e5d-4814-bd19-0b1a05c9606f
+JavaScript warning: https://www.amazon.in/s?k=nike+jordar line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-University-RED-White-Jordan-AR6374-016/dp/B096MMG1ZQ/ref=sr_1_5?keywords=nike+jordan&qid=1665849767&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-5 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Nike-Hustle-Basketball-Metallic-Silver/dp/B01LBG7IOW/ref=sr_1_40?keywords=nike+jordan&qid=1665849767&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-40 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Jordan-Mars-Quarter-White-Medium/dp/B0091FQRSO/ref=sr_1_50?keywords=nike+jordan&qid=1665849767&qu=eyJxc2MiOiI4LjM0IiwicXNhIjoiNy44MSIsInFzcCI6IjQuNjgifQ%3D%3D&sr=8-50 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665853622025	geckodriver	INFO	Listening on 127.0.0.1:49870
