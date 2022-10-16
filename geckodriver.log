@@ -1195,3 +1195,25 @@ console.error: services.settings:
 console.error: services.settings: 
   main/doh-providers local data was corrupted
 console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+1665921143874	geckodriver	INFO	Listening on 127.0.0.1:50809
+1665921146919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50810" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile1Uv6UW"
+*** You are running in headless mode.
+1665921147197	Marionette	INFO	Marionette enabled
+1665921147201	Marionette	INFO	Listening on port 50815
+WebDriver BiDi listening on ws://127.0.0.1:50810
+1665921147566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofile1Uv6UW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50810/devtools/browser/782a7053-d1b8-4d96-aa4a-ac25b393cabe
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665921269435	geckodriver	INFO	Listening on 127.0.0.1:51212
+1665921272512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51213" "-no-remote" "-profile" "C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileZ1CTur"
+*** You are running in headless mode.
+1665921272862	Marionette	INFO	Marionette enabled
+1665921272865	Marionette	INFO	Listening on port 51218
+WebDriver BiDi listening on ws://127.0.0.1:51213
+1665921273046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexm\\AppData\\Local\\Temp\\rust_mozprofileZ1CTur\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51213/devtools/browser/007a17dd-4c7d-4ae3-99fe-2856b1051d46
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
