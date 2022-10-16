@@ -23,6 +23,8 @@ async def func(query):
             # print("var",i.find_element(By.CLASS_NAME ,"a-link-normal").get_attribute("href"))
             if i.find_element(By.CLASS_NAME ,"_30jeq3 ").text == '':
                 pass
+                print("pass")
+                
             else:
                 link.append([i.find_element(By.CLASS_NAME ,"_1fQZEK").get_attribute("href"),i.find_element(By.CLASS_NAME ,"_4rR01T").text,i.find_element(By.CLASS_NAME ,"_30jeq3").text])
         except:
