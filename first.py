@@ -75,7 +75,7 @@ def func():
             }      
             }
 
-        bot_no = "15550476952"
+        bot_no = ""
         if bot_no!=phone:
             
             answer = requests.post(base_url, data=json.dumps(data), headers=headers)
